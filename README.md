@@ -50,7 +50,7 @@ A minimal example could look like this:
 
 ``` 
 > [!NOTE]  
-> If you're interested in the AURORA package, the [Brain Metastases Segmentation]( https://github.com/BrainLesion/BraTS?tab=readme-ov-file#brain-metastases-segmentation) may also be of interest.
+> If you're interested in the AURORA package, the [Brain Metastases Segmentation](https://github.com/BrainLesion/BraTS?tab=readme-ov-file#brain-metastases-segmentation) may also be of interest.
 ## Citation
 Please support our development by citing the following manuscripts:
 
